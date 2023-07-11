@@ -7,7 +7,6 @@ import { HomeComponent } from './components/home/home.component';
 
 
 const routes: Routes = [
-  // { path: '', redirectTo: 'Empleados', pathMatch: 'full' },
   { path: 'lista-empleados', component: PersonaComponent },
   { path: 'lista-puestos', component: PuestoComponent },
   { path: 'lista-relaciones', component: EmpleadoPuestoComponent },

@@ -37,10 +37,8 @@ export class PersonaComponent {
         this.selectedPersona.id = this.personaArray.length + 1;
         this.personaArray.push(this.selectedPersona);
       } else {
-        // Find the index of the selected persona in the personaArray
         const index = this.personaArray.findIndex(persona => persona.id === this.selectedPersona.id);
         if (index > -1) {
-          // Update the existing persona with the edited values
           this.personaArray[index] = { ...this.selectedPersona };
         }
       }

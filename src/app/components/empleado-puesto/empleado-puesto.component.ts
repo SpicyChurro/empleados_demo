@@ -17,7 +17,7 @@ export class EmpleadoPuestoComponent {
   constructor() {
     this.loadRelations();
     this.loadPersonas();
-    this.loadPuestos(); // Load the puestos data
+    this.loadPuestos(); 
   }
 
   loadRelations() {
