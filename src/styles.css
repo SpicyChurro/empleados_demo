@@ -1,1 +1,162 @@
-/* You can add global styles to this file, and also import other style files */
+.color_guinda {
+    color: #691C32 !important;
+}
+
+.slidebarToggle {
+    background-color: #691C32 !important;
+}
+
+.nav_left {
+    background-color: white !important;
+}
+
+.nav_top {
+    background-color: #10312B !important;
+}
+
+.nav_user_top {
+    color: white !important;
+}
+
+.background_footer {
+    background-color: #C9A977 !important;
+}
+
+.text_footer {
+    color: white !important;
+}
+
+.background_color_white {
+    background-color: white !important;
+}
+
+.border_guinda_top {
+    border-top-color: #691C32 !important;
+    border-top-width: medium !important;
+}
+
+.btn_guinda {
+    border-color: #691c32 !important;
+    background-color: #691c32 !important;
+    border-radius: 18px !important;
+    font-size: 15px;
+    color: white !important;
+}
+
+.btn_cancelar {
+    border-color: #10312b !important;
+    font-size: 15px;
+    background-color: #10312b !important;
+    border-radius: 18px !important;
+    color: #ffffff !important;
+}
+
+.btn_guinda_margin {
+    margin-right: 10px;
+}
+
+.head_space {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.btn_limpiar {
+    border-color: #a3966c!important;
+    font-size: 15px;
+    background-color: #a3966c!important;
+    border-radius: 18px !important;
+    color: #ffffff !important;
+}
+
+.border_radius {
+    border-radius: 5px !important;
+}
+
+.btn-sm-guinda {
+    background-color: #691c32 !important;
+    border-radius: 12px !important;
+    color: white !important;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.table_top_color {
+    background-color: #10312B !Important;
+}
+
+.border_table {
+    border-radius: 15px !Important;
+}
+
+.card-head_background {
+    background-color: #691c32;
+    color: #ffffff !important;
+}
+
+.fa-search_color {
+    color: black !important;
+    font-size: 20px !important;
+}
+
+.background_color {
+    background-color: white !important;
+    /*border-color: rgba(255,255,255,0.3);*/
+    /*border: none !important;*/
+}
+
+.navbar {
+    background: #343a40;
+    padding: 20px;
+}
+
+.card {
+    border-top: 2px solid #915869;
+    box-shadow: -3px 0px 7px 1px rgba(133, 135, 150, 0.43);
+    margin-bottom: 20px;
+}
+
+.table_top_color {
+    background: rgba(255, 255, 255, 0);
+    color: #fff;
+}
+
+.border_table {
+    border: 1px solid #dadada;
+}
+
+.btn_guinda {
+    background: #d9534f;
+    color: #fff;
+}
+
+.btn_cancelar {
+    background: #6c757d;
+    color: #fff;
+}
+
+.text-dark {
+    color: #303030;
+}
+
+#content {
+    margin: 30px;
+}
+
+table {
+    width: 100%;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.border_table {
+    border: 1px solid #dadada;
+}

@@ -1,0 +1,23 @@
+/* styles.css */
+
+.container {
+    padding-top: 4rem;
+}
+
+.display-4 {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.fs-5 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.btn-primary {
+    /* Add any specific styles for the button here */
+}
+
+.img-fluid {
+    width: 800px;
+}
